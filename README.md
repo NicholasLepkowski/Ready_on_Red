@@ -1,7 +1,7 @@
 # Ready_on_Red
 An emergency response communications system built on Meshtastic
 
-#Hardware
+# Hardware
 An ESP32 board with LoRa capabilities to act as a node
 A Central node that translates Signals to internet and cellular notifications.
 
